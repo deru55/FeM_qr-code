@@ -48,14 +48,14 @@ body {
 }
 
 .card__content {
-  padding: 1.5rem 0.5rem;
+  padding: 1.5rem 1rem;
 }
 
 .card__img {
   border-radius: 0.5rem;
 }
 
-.card__title {
+.card__content__title {
   font-size: 1.4rem;
   font-weight: var(--fw-700);
   color: var(--clr-neutral-4);
