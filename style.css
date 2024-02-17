@@ -47,15 +47,15 @@ body {
   max-width: 20.313rem; /* 325px */
 }
 
-.card__content {
+.card-content {
   padding: 1.5rem 1rem;
 }
 
-.card__img {
+.card-img {
   border-radius: 0.5rem;
 }
 
-.card__content__title {
+.card-content__title {
   font-size: 1.4rem;
   font-weight: var(--fw-700);
   color: var(--clr-neutral-4);
